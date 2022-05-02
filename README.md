@@ -1,4 +1,4 @@
-# training
+# Strength
 Phraks Greyskull LP Variant
 
 === Program ===
@@ -28,3 +28,17 @@ Day 3:
 * Chins are palms facing you, shoulder width grip, add weight in 2.5# increments
 * If you fail to do 5 reps in final set, deload by 10%
 ```
+
+# Conditioning:
+
+```
+* Intervals 1x per week
+* Steady state 30-60 min 1x per week
+* METCON 1-2x per week
+
+=== Rules ===
+* Intervals can either be road or form-runner. Examples include 5x30 sec form-runner intervals with 90 sec recovery jog, or 4x400m @ mile pace with a 1:2 rest ratio
+* Steady state can be a jog, cycle, row, swim, hike, etc. Goal is to maintain Zone 2 heart rate for the duration of the session
+* METCONs are up to your creativity. Example includes 5RFT: 10 burpees + 20 BF Sit-Ups + 30 cal row
+```
+
