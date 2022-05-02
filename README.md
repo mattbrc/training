@@ -1,3 +1,6 @@
+# Broad Overview
+The goal of this training is to maintain/improve overall strength and conditioning with the minimum effective dose of required time. Each lift can be accomplished in under 30 mins, and conditioning sessions last anywhere from 15-60 min. Total time required per week: 210 min == 3.5 hrs == 0.5 hrs/day of work on average. 
+
 # Strength
 Phraks Greyskull LP Variant
 
